@@ -26,38 +26,38 @@ Detail-oriented finance professional with a strong B.Com foundation and hands-on
 
 | Domain | Skills & Competencies |
 | :--- | :--- |
-| **Accounting & Finance** | Financial Reporting, Bookkeeping, Bank & Ledger Reconciliation, Financial Statement Analysis[cite: 2] |
-| **Taxation & Compliance** | GST, Input Tax Credit (ITC), TDS, Income Tax Returns (ITR), Statutory Compliance[cite: 2] |
-| **Software & Tools** | MS Excel, Tally Prime, MS Word, PowerPoint[cite: 2] |
+| **Accounting & Finance** | Financial Reporting, Bookkeeping, Bank & Ledger Reconciliation, Financial Statement Analysis |
+| **Taxation & Compliance** | GST, Input Tax Credit (ITC), TDS, Income Tax Returns (ITR), Statutory Compliance |
+| **Software & Tools** | MS Excel, Tally Prime, MS Word, PowerPoint |
 
 ---
 
 ### 💼 Internship Experience
 
 #### **Audit cum Compliance Assistant** | Kashvi Multi Service Private Limited
-*June 2026 – August 2026*[cite: 2]
+*June 2026 – August 2026*
 
-- Processed **1,000+ voucher entries** (payment, receipt, sales, purchase, and journal) in Tally Prime[cite: 2].
-- Executed bank reconciliations across **TL (Term Loan), CC (Cash Credit), and OD (Overdraft)** accounts[cite: 2].
-- Compiled **ITC data** and assisted with **GSTR-1 & GSTR-3B** compliance reporting[cite: 2].
-- Maintained and updated **500+ production entries** with strict operational accuracy[cite: 2].
+- Processed **1,000+ voucher entries** (payment, receipt, sales, purchase, and journal) in Tally Prime.
+- Executed bank reconciliations across **TL (Term Loan), CC (Cash Credit), and OD (Overdraft)** accounts.
+- Compiled **ITC data** and assisted with **GSTR-1 & GSTR-3B** compliance reporting.
+- Maintained and updated **500+ production entries** with strict operational accuracy.
 
 ---
 
 ### 🎓 Education & Certifications
 
-- **Master of Business Administration (MBA) – Finance** | GL Bajaj College *(SGPA: 8.0 / 7.46)*[cite: 2]
-- **PG Diploma in Human Resource Management** | Banaras Hindu University *(74.5%)*[cite: 2]
-- **Bachelor of Commerce (B.Com)** | Mahatma Gandhi Kashi Vidyapith *(62.27%)*[cite: 2]
-- **Diploma in Financial Accounting (DFA)**[cite: 2]
-- **Infosys Skillup** – Accounting Fundamentals[cite: 2]
+- **Master of Business Administration (MBA) – Finance** | GL Bajaj College *(SGPA: 8.0 / 7.46)*
+- **PG Diploma in Human Resource Management** | Banaras Hindu University *(74.5%)*
+- **Bachelor of Commerce (B.Com)** | Mahatma Gandhi Kashi Vidyapith *(62.27%)*
+- **Diploma in Financial Accounting (DFA)**
+- **Infosys Skillup** – Accounting Fundamentals
 
 ---
 
 ### 🏅 Leadership & Activities
 
-- **Club Coordinator** – Mudra Club (Coordinated club activities & event planning)[cite: 2]
-- **Volunteer** – BHU Kashi Naya Samagam (Participant management & logistics)[cite: 2]
+- **Club Coordinator** – Mudra Club (Coordinated club activities & event planning)
+- **Volunteer** – BHU Kashi Naya Samagam (Participant management & logistics)
 
 ---
 
